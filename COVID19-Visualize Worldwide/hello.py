@@ -1,2 +1,0 @@
-import arcpy
-print 'HELLO'
