@@ -1,6 +1,0 @@
-SET LOCK_TIMEOUT 6000000
-go
-EXEC spa_trm_session @flag='p', @trm_session_id='098a6p4a0vu2so54hhgebk82i0'
-go
-
-spa_message_board
